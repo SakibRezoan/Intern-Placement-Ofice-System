@@ -1,0 +1,112 @@
+/* --------------------------------------
+ Layout
+ ---------------------------------------- */
+ body{
+ 	background-color:#FFF;
+ }
+#Welcome{
+	background-color:#0F595E;
+	color: white;
+	font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 1px;
+    font-family: Montserrat, sans-serif;
+	
+}
+ /* --------------------------------------
+ Typography
+ ---------------------------------------- */
+.well .page-header{
+	 margin-top: 0px;
+	 text-align:justify;
+} 
+#cv{
+	color:#B7AB0C;	
+}
+#cv a:hover{
+	text-decoration:none;
+	
+}
+ /* --------------------------------------
+ Navbar
+ ---------------------------------------- */
+#myNavbar{
+	text-align:center;
+	color: white;
+	background-color:#25373D;
+	font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    font-family: Montserrat, sans-serif;
+	font-weight:bold;
+	padding-right: 40px;
+}
+#iitlogo{
+	
+	margin : 0px;
+	padding: 0px;
+}
+.navbar li a, .navbar-brand, .navbar{
+      color: white !important;
+	  background-color:#25373D !important;
+	  font-size: 12px;
+}
+.navbar li a:hover{
+      color: #1f4d7a !important;
+      background-color: #fff !important;
+}
+ /* --------------------------------------
+ Body
+ ---------------------------------------- */
+ #homeCallout{
+ 	width: inherit;
+ }
+.panel-title a:hover{
+    text-decoration: none;
+}
+.panel-body{
+	background-color: #0F595E;
+	color: white;
+}
+#view{
+	color:#05807B;
+	border : 1px;
+	border-color:#05AC37;
+	font-weight:bold;
+	
+}
+#pannel_footer{ 
+	background-color: #0F595E;
+	padding-left:0px;
+	padding-right:20px;
+}
+
+ /* --------------------------------------
+ Footer
+ ---------------------------------------- */
+ #help{
+	font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    font-family: Montserrat, sans-serif;
+	text-align:justify;
+	 
+ }
+  #about{
+	font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    font-family: Montserrat, sans-serif;
+	text-align:justify;
+	 
+ }
+ 
+ .footer{
+	 background-color:#585F69;
+	 color : white !important;
+	 padding : 0px;
+	 margin:0px;
+ }
+ #copyright{
+	 background-color:#3E4753;
+	 color: white !important;
+	 font-family: Montserrat, sans-serif;
+	 padding-top: 20px;
+ }
